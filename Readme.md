@@ -1,9 +1,8 @@
 # SONGS4RI🙈🙉🙊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SONGS4RI&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aoleejohn)](https://solved.ac/aoleejohn/)
 
-# 🛠️Skills
+
+## 🛠️Skills
 ### Backend
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>
@@ -17,6 +16,6 @@
 ### Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=vercel)](https://songs4ri.oopy.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:aoleejohn@gmail.com)
